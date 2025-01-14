@@ -18,3 +18,6 @@ Categorization: Organize tasks based on priority or due dates.
 
 Why This Project:
 This project is a practical and achievable way to learn and demonstrate key full-stack development skills, including API creation, database management, and React development.
+
+
+completed!!
