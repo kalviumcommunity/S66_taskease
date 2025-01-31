@@ -21,3 +21,5 @@ This project is a practical and achievable way to learn and demonstrate key full
 
 
 completed!!
+## deployed link:
+https://s66-taskease.onrender.com
